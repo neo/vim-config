@@ -218,7 +218,6 @@
 
 
 " Clojure Highlighting"
-  Bundle 'paredit.vim'
   let g:paredit_leader= '\'
   Bundle "git://github.com/tpope/vim-fireplace.git"
   Bundle "git://github.com/tpope/vim-classpath.git"
