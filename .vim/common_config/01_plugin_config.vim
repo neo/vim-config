@@ -228,4 +228,7 @@
   nmap <Leader>rl :wa<CR> :call RunLastSpec()<CR>
   nmap <Leader>ra :wa<CR> :call RunAllSpecs()<CR>
 
+" Load custom config here so custom bundles can be installed
+  runtime! custom_config/*.vim
+
  call neobundle#end()
