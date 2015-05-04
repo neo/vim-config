@@ -194,7 +194,7 @@
   NeoBundle "git://github.com/tpope/vim-classpath.git"
   NeoBundle "git://github.com/guns/vim-clojure-static.git"
   NeoBundle "git://github.com/vim-scripts/paredit.vim"
-  NeoBundle "git://github.com/amdt/vim-niji.git"
+  NeoBundle "git://github.com/raymond-w-ko/vim-niji.git"
   autocmd BufNewFile,BufRead *.clj set filetype=clojure
   autocmd BufNewFile,BufRead *.edn set filetype=clojure
   autocmd BufNewFile,BufRead *.cljs set filetype=clojure
