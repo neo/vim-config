@@ -219,6 +219,9 @@
 " Rust!
   NeoBundle 'git://github.com/wting/rust.vim.git'
 
+" Crystal
+  NeoBundle 'git://github.com/rhysd/vim-crystal.git'
+
 " Easy async RSpec running
   NeoBundle 'thoughtbot/vim-rspec'
   NeoBundle "git://github.com/tpope/vim-dispatch.git"
